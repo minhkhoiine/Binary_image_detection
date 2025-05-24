@@ -1,4 +1,3 @@
-readme_content = """
 # Binary Image Detection
 
 This project focuses on detecting and classifying binary images using computer vision techniques. It demonstrates the process of loading binary images, preprocessing them, and applying classification algorithms to distinguish between different categories.
